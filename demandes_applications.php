@@ -17,6 +17,9 @@
         <p class="bold">Stage de deuxième année: Création et ajout de fonctionnalités sur des applications sur PorwerApps</p>
         <img src="img/PorwerApps.png" class="img-fluid" alt="">
         <img src="img/PowerApps1.png" class="img-fluid" alt="">
+
+
+        <p>Test deploy az for update</p>
     </div>
 
     <!-- Bootstrap JS -->
