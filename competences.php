@@ -16,49 +16,48 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="skill-section">
-                    <h2>Gérer le patrimoine informatique</h2>
-                    <a href="" class="btn btn-link d-block">Mettre en place et vérifier les niveaux d’habilitation associés à un service PPE Worktogether - Gestion des droits des utilisateurs</a>
-                    <a href="" class="btn btn-link d-block">Recenser et identifier les ressources numériques Stage NUMIDEV - Bitbucket (Stocker et gérer le code source)</a>
+                    <strong>Gérer le patrimoine informatique</strong>
+                    <a href="mettreEnPlace.php" class="btn btn-link d-block">Mettre en place et vérifier les niveaux d’habilitation associés à un service PPE Worktogether - Gestion des droits des utilisateurs</a>
+                    <a href="recenser.php" class="btn btn-link d-block">Recenser et identifier les ressources numériques Stage NUMIDEV - Bitbucket (Stocker et gérer le code source)</a>
                 </div>
                 <div class="skill-section">
-                    <h2>Répondre aux incidents et aux demandes d’assistance et d’évolution</h2>
-                    <a href="demandes_applications.php" class="btn btn-link d-block">Traiter des demandes concernant les applications</a>
-                    <a href="" class="btn btn-link d-block">Collecter, suivre et orienter des demandes
+                    <strong>Répondre aux incidents et aux demandes d’assistance et d’évolution</strong>
+                    <a href="demandes_applications.php" class="btn btn-link d-block">Traiter des demandes concernant les applications
+                        Stage WILO - Amélioration Ajout de fonctionnalités et création d'une Application sur PowerApp</a>
+                    <a href="collecterSuivre.php" class="btn btn-link d-block">Collecter, suivre et orienter des demandes
                         Stage Numidev - Traiter les demandes d'évolution et de correction des fonctionnalités sur les différents projets (PLANNIGO, LEASYPEASY), Satege WILO - Amélioration de l'intranet SharePoint (Création d'un Template,amélioration de la diffusion des webinars dans le TeamSite)</a>
-                    <a href="" class="btn btn-link d-block">Traiter des demandes concernant les applications
-                        Stage WILO - Amélioration Ajout de fonctionnalités et création d'une Application sur PowerApps</a>
                 </div>
                 <div class="skill-section">
-                    <h2>Développer la présence en ligne de l’organisation</h2>
-                    <a href="" class="btn btn-link d-block">Participer à l’évolution d’un site Web exploitant les données de l’organisation.
+                    <strong>Développer la présence en ligne de l’organisation</strong>
+                    <a href="participerEvo.php" class="btn btn-link d-block">Participer à l’évolution d’un site Web exploitant les données de l’organisation.
                         Stage WILO - Elaboration d'un template sur le TeamSite SharePoint de l'organisation utilisant les données des différentes bibliothèque de l'organisation</a>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="skill-section">
-                    <h2>Travailler en mode projet</h2>
-                    <a href="" class="btn btn-link d-block">Analyser les objectifs et les modalités d’organisation d’un projet
+                    <strong>Travailler en mode projet</strong>
+                    <a href="analyserLesObjectifs.php" class="btn btn-link d-block">Analyser les objectifs et les modalités d’organisation d’un projet
                         PPE Worktogether - Cahier des charges, Stage Numidev - Analyse du Cahier des charges de LEASYPEASY pour répondre aux besoins, Analyser les objectifs et les modalités d’organisation d’un projet
                         Stage WILO - Cahier des charches du Template de SharePoint </a>
-                    <a href="" class="btn btn-link d-block">Planifier les activités
+                    <a href="planifierLesActivites.php" class="btn btn-link d-block">Planifier les activités
                         PPE Worktogether - Backlog (Jira), Recette d'application, Cypress planification de test,Stage NUMIDEV - Notion Planification des diférents sprints et fixtures(Projet LEASYEASY , PLANIGO)</a>
-                    <a href="" class="btn btn-link d-block">Évaluer les indicateurs de suivi d’un projet et analyser les écarts
+                    <a href="evaluerLesIndicateurs.php" class="btn btn-link d-block">Évaluer les indicateurs de suivi d’un projet et analyser les écarts
                         PPE Worktogether - Gant </a>
                 </div>
                 <div class="skill-section">
-                    <h2>Mettre à disposition des utilisateurs un service informatique</h2>
-                    <a href="" class="btn btn-link d-block">Déployer un service
+                    <strong>Mettre à disposition des utilisateurs un service informatique</strong>
+                    <a href="deployerUnService.php" class="btn btn-link d-block">Déployer un service
                         PPE Worktogether - Solution Web(Projet léger)</a>
-                    <a href="" class="btn btn-link d-block">Accompagner les utilisateurs dans la mise en place d’un service
+                    <a href="accompagnerLesUtilisateurs.php" class="btn btn-link d-block">Accompagner les utilisateurs dans la mise en place d’un service
                         PPE Worktogether - Documentation technique , documentation utilisateur,Stage Wilo - Documentation technique (fonctionalités SharePoint, PowerApps) </a>
                 </div>
                 <div class="skill-section">
-                    <h2>Organiser son développement professionnel</h2>
-                    <a href="" class="btn btn-link d-block">Gérer son identité professionnelle
+                    <strong>Organiser son développement professionnel</strong>
+                    <a href="gererSonIdentite.php" class="btn btn-link d-block">Gérer son identité professionnelle
                         Portfolio, Linkedin, CV numérique</a>
-                    <a href="" class="btn btn-link d-block">Mettre en œuvre des outils et stratégies de veille informationnelle
+                    <a href="mettreEnOeuvre.php" class="btn btn-link d-block">Mettre en œuvre des outils et stratégies de veille informationnelle
                         Linkedin ( abonnement à la CNIL, Web Developer , Cybermalveillance.gouv.fr )</a>
-                    <a href="" class="btn btn-link d-block">Développer son projet professionnel
+                    <a href="developperSonProjet.php" class="btn btn-link d-block">Développer son projet professionnel
                         Recherche d'une alternance - CV, Linkedin, Lettre recommandation</a>
                 </div>
             </div>
