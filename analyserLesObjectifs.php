@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,10 +25,21 @@
         }
     </style>
 </head>
+
 <body>
-<a href="competences.php" class="btn btn-primary mt-3">Retour</a>
+    <div class="container">
 
-<h1>Analyser les objectifs et les modalités d’organisation d’un projet - PPE Worktogether (Cahier des charges)</h1>
+        <a href="competences.php" class="btn btn-primary mt-3">Retour</a>
 
+        <h1>Analyser les objectifs et les modalités d’organisation d’un projet - PPE Worktogether (Cahier des charges)</h1>
+
+
+
+    </div>
+    <img src="img/Immostep1.png" class="img-fluid" alt="">
+    <img src="img/Immostep2.png" class="img-fluid" alt="">
+    <img src="img/Immostep3.png" class="img-fluid" alt="">
+    <img src="img/Template.png" class="img-fluid" alt="">
 </body>
+
 </html>

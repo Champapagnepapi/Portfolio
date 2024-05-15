@@ -27,6 +27,9 @@
 <body>
 <a href="competences.php" class="btn btn-primary mt-3">Retour</a>
 <h1>Recenser et identifier les ressources numériques - Stage NUMIDEV (Bitbucket - Stocker et gérer le code source)</h1>
+<p>Durant mon stage j'ai dû </p>
+<img src="img/Bitbucket1" class="img-fluid" alt="">
+<img src="img/Bitbucket2" class="img-fluid" alt="">
 
 </body>
 </html>

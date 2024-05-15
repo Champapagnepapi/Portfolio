@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,11 +25,33 @@
         }
     </style>
 </head>
+
 <body>
 
-<a href="competences.php" class="btn btn-primary mt-3">Retour</a>
+    <a href="competences.php" class="btn btn-primary mt-3">Retour</a>
 
-<h1>Collecter, suivre et orienter des demandes - Stage Numidev (Traitement des demandes d'évolution et de correction) - Stage WILO (Amélioration de l'intranet SharePoint)</h1>
+    <h1>Collecter, suivre et orienter des demandes - Stage Numidev (Traitement des demandes d'évolution et de correction) - Stage WILO (Amélioration de l'intranet SharePoint)</h1>
+
+    <div>
+        <img src="img/Filtre1.png" class="img-fluid" alt="">
+        <img src="img/Filtre2.png" class="img-fluid" alt="">
+    </div>
+    <div>
+        <img src="img/planigoFilters.png" class="img-fluid" alt="">
+    </div>
+
+    <div>
+        <img src="img/Planigo1.png" class="img-fluid" alt="">
+    </div>
+
+    <div>
+        <img src="img/HistoriqueDuBien1.png" class="img-fluid" alt="">
+    </div>
+
+    <div>
+        <img src="img/Propro1.png" class="img-fluid" alt="">
+    </div>
 
 </body>
+
 </html>

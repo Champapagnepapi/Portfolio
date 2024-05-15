@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,12 +25,20 @@
         }
     </style>
 </head>
-<body>
-<a href="competences.php" class="btn btn-primary mt-3">Retour</a>
 
-<h1>Évaluer les indicateurs de suivi d’un projet et analyser les écarts - PPE Worktogether</h1>
+<body>
+
+    <div class="container">
+        <a href="competences.php" class="btn btn-primary mt-3">Retour</a>
+
+        <h1>Évaluer les indicateurs de suivi d’un projet et analyser les écarts - PPE Worktogether</h1>
+
+        <img src="img/Gant.png" class="img-fluid" alt="">
+    </div>
+
 
 
 
 </body>
+
 </html>

@@ -11,6 +11,20 @@
 </head>
 
 <body>
+
+    <style>
+        body {
+            background-image: url('img/Bd.jpeg');
+            /* Répéter l'image sur l'ensemble de la page */
+            background-repeat: repeat;
+            /* Centrer l'image horizontalement et verticalement */
+            background-position: center center;
+            /* Redimensionner l'image pour couvrir toute la page */
+            background-size: cover;
+            /* Fixer l'image sur la page pour éviter le défilement */
+            background-attachment: fixed;
+        }
+    </style>
     <div class="container">
         <h1 class="text-center my-5">Mes Compétences</h1>
         <div class="row">
@@ -19,6 +33,8 @@
                     <strong>Gérer le patrimoine informatique</strong>
                     <a href="mettreEnPlace.php" class="btn btn-link d-block">Mettre en place et vérifier les niveaux d’habilitation associés à un service PPE Worktogether - Gestion des droits des utilisateurs</a>
                     <a href="recenser.php" class="btn btn-link d-block">Recenser et identifier les ressources numériques Stage NUMIDEV - Bitbucket (Stocker et gérer le code source)</a>
+                    <a href="" class="btn btn-link d-block">Vérifier les conditions de la continuité d’un service informatique
+                        PPE Worktogether - Sentry</a>
                 </div>
                 <div class="skill-section">
                     <strong>Répondre aux incidents et aux demandes d’assistance et d’évolution</strong>
@@ -31,6 +47,8 @@
                     <strong>Développer la présence en ligne de l’organisation</strong>
                     <a href="participerEvo.php" class="btn btn-link d-block">Participer à l’évolution d’un site Web exploitant les données de l’organisation.
                         Stage WILO - Elaboration d'un template sur le TeamSite SharePoint de l'organisation utilisant les données des différentes bibliothèque de l'organisation</a>
+                    <a href="" class="btn btn-link d-block">Référencer les services en ligne de l’organisation et mesurer leur visibilité
+                        PPE Worktogether - Matomo</a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -50,6 +68,8 @@
                         PPE Worktogether - Solution Web(Projet léger)</a>
                     <a href="accompagnerLesUtilisateurs.php" class="btn btn-link d-block">Accompagner les utilisateurs dans la mise en place d’un service
                         PPE Worktogether - Documentation technique , documentation utilisateur,Stage Wilo - Documentation technique (fonctionalités SharePoint, PowerApps) </a>
+                    <a href="" class="btn btn-link d-block">Réaliser les tests d’intégration et d’acceptation d’un service
+                        PPE Worktogether - Cypress et Tests Unitaires </a>
                 </div>
                 <div class="skill-section">
                     <strong>Organiser son développement professionnel</strong>
@@ -59,6 +79,8 @@
                         Linkedin ( abonnement à la CNIL, Web Developer , Cybermalveillance.gouv.fr )</a>
                     <a href="developperSonProjet.php" class="btn btn-link d-block">Développer son projet professionnel
                         Recherche d'une alternance - CV, Linkedin, Lettre recommandation</a>
+                    <a href="" class="btn btn-link d-block">Développer son projet professionnel
+                        Recherche d'une alternance - CV, Linkedin</a>
                 </div>
             </div>
         </div>

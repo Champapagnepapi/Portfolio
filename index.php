@@ -3,7 +3,7 @@
 session_start();
 
 // Définir le temps d'expiration de la session (en secondes)
-$inactive_timeout = 60; 
+$inactive_timeout = 60;
 
 // Vérifier si l'utilisateur est déjà connecté
 if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] === true) {
@@ -60,9 +60,29 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <title>Form Home</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="Style.css">
+    <style>
+        body {
+            background-image: url('img/R.jpg');
+            /* Répéter l'image sur l'ensemble de la page */
+            background-repeat: repeat;
+            /* Centrer l'image horizontalement et verticalement */
+            background-position: center center;
+            /* Redimensionner l'image pour couvrir toute la page */
+            background-size: cover;
+            /* Fixer l'image sur la page pour éviter le défilement */
+            background-attachment: fixed;
+        }
+    </style>
 </head>
 
 <body>
+
+    <div class="header">
+        <div class="message">
+            <p><strong>Message important :</strong> Site en cours de production</p>
+        </div>
+    </div>
+
     <div class="container">
         <?php
         // Afficher les messages d'erreur s'il y en a
@@ -77,11 +97,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <h1>Connexion</h1>
                 <div class="form-group">
                     <label for="login" class="inline">Login :</label>
-                    <input id="login" name="login" type="text" class="form-control" value="jury">
+                    <input id="login" name="login" type="text" class="form-control">
                 </div>
                 <div class="form-group">
                     <label for="pwd" class="inline">Mot de passe :</label>
-                    <input id="pwd" name="pwd" type="password" class="form-control" value="Not24get">
+                    <input id="pwd" name="pwd" type="password" class="form-control">
                 </div>
                 <input type="submit" class="btn btn-primary" value="Connexion" />
             </div>

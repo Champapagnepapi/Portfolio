@@ -68,3 +68,13 @@ h1 {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     margin-bottom: 10px;
 }
+
+.message {
+    background-color: #f8d7da; /* Couleur de fond rouge pâle */
+    border: 1px solid #f5c6cb; /* Bordure rouge */
+    border-radius: 5px; /* Coins arrondis */
+    padding: 10px; /* Espacement intérieur */
+    margin-bottom: 20px; /* Marge en bas */
+    font-size: 18px; /* Taille de police plus grande */
+    font-weight: bold; /* Texte en gras */
+}
