@@ -20,8 +20,32 @@
             font-weight: bold;
             text-align: center;
             padding: 20px;
-            margin-top: 50px;
+            margin-top: 30px;
             margin-bottom: 50px;
+        }
+
+        .text-container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .text-container p {
+            margin-bottom: 0; /* Pour éviter un espacement excessif entre les paragraphes */
+        }
+
+        .image-container {
+            text-align: center;
+        }
+
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
         }
     </style>
 </head>
@@ -32,24 +56,58 @@
 
     <h1>Collecter, suivre et orienter des demandes - Stage Numidev (Traitement des demandes d'évolution et de correction) - Stage WILO (Amélioration de l'intranet SharePoint)</h1>
 
-    <div>
-        <img src="img/Filtre1.png" class="img-fluid" alt="">
-        <img src="img/Filtre2.png" class="img-fluid" alt="">
-    </div>
-    <div>
-        <img src="img/planigoFilters.png" class="img-fluid" alt="">
-    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="text-container">
+                    <p>Filtre pour les biens</p>
+                </div>
+                <div class="image-container">
+                    <img src="img/Filtre1.png" class="img-fluid" alt="Filtrer les demandes">
+                </div>
 
-    <div>
-        <img src="img/Planigo1.png" class="img-fluid" alt="">
-    </div>
+                <div class="text-container">
+                    <p>Filtre pour les utilisateurs</p>
+                </div>
+                <div class="image-container">
+                    <img src="img/Filtre2.png" class="img-fluid" alt="Filtrer les demandes">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="text-container">
+                    <p>Sur Planigo mis en place d'un système de filtre pour les indisponibilités des salariés</p>
+                </div>
+                <div class="image-container">
+                    <img src="img/planigoFilters.png" class="img-fluid" alt="Planigo - Filtres">
+                </div>
 
-    <div>
-        <img src="img/HistoriqueDuBien1.png" class="img-fluid" alt="">
-    </div>
+                <div class="text-container">
+                    <p>Gérer l'ajout, modification, suppression et affichage des gammes</p>
+                </div>
+                <div class="image-container">
+                    <img src="img/Planigo1.png" class="img-fluid" alt="Planigo - Gestion des demandes">
+                </div>
+            </div>
+        </div>
 
-    <div>
-        <img src="img/Propro1.png" class="img-fluid" alt="">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="text-container">
+                    <p>Sur LEASYEASY faire la vue Historique du bien pour avoir toute l'historique des différents bien possédé</p>
+                </div>
+                <div class="image-container">
+                    <img src="img/HistoriqueDuBien1.png" class="img-fluid" alt="Historique du bien">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="text-container">
+                    <p>Ici j'ai fait une vue permettant de changer le mot de passe de l'utilisateur</p>
+                </div>
+                <div class="image-container">
+                    <img src="img/Propro1.png" class="img-fluid" alt="Vue du profil">
+                </div>
+            </div>
+        </div>
     </div>
 
 </body>

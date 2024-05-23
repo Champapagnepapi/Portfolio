@@ -33,7 +33,7 @@
                     <strong>Gérer le patrimoine informatique</strong>
                     <a href="mettreEnPlace.php" class="btn btn-link d-block">Mettre en place et vérifier les niveaux d’habilitation associés à un service PPE Worktogether - Gestion des droits des utilisateurs</a>
                     <a href="recenser.php" class="btn btn-link d-block">Recenser et identifier les ressources numériques Stage NUMIDEV - Bitbucket (Stocker et gérer le code source)</a>
-                    <a href="" class="btn btn-link d-block">Vérifier les conditions de la continuité d’un service informatique
+                    <a href="verifierLesConditions.php" class="btn btn-link d-block">Vérifier les conditions de la continuité d’un service informatique
                         PPE Worktogether - Sentry</a>
                 </div>
                 <div class="skill-section">
@@ -47,7 +47,7 @@
                     <strong>Développer la présence en ligne de l’organisation</strong>
                     <a href="participerEvo.php" class="btn btn-link d-block">Participer à l’évolution d’un site Web exploitant les données de l’organisation.
                         Stage WILO - Elaboration d'un template sur le TeamSite SharePoint de l'organisation utilisant les données des différentes bibliothèque de l'organisation</a>
-                    <a href="" class="btn btn-link d-block">Référencer les services en ligne de l’organisation et mesurer leur visibilité
+                    <a href="referencer.php" class="btn btn-link d-block">Référencer les services en ligne de l’organisation et mesurer leur visibilité
                         PPE Worktogether - Matomo</a>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                         PPE Worktogether - Solution Web(Projet léger)</a>
                     <a href="accompagnerLesUtilisateurs.php" class="btn btn-link d-block">Accompagner les utilisateurs dans la mise en place d’un service
                         PPE Worktogether - Documentation technique , documentation utilisateur,Stage Wilo - Documentation technique (fonctionalités SharePoint, PowerApps) </a>
-                    <a href="" class="btn btn-link d-block">Réaliser les tests d’intégration et d’acceptation d’un service
+                    <a href="realiser.php" class="btn btn-link d-block">Réaliser les tests d’intégration et d’acceptation d’un service
                         PPE Worktogether - Cypress et Tests Unitaires </a>
                 </div>
                 <div class="skill-section">
@@ -78,9 +78,8 @@
                     <a href="mettreEnOeuvre.php" class="btn btn-link d-block">Mettre en œuvre des outils et stratégies de veille informationnelle
                         Linkedin ( abonnement à la CNIL, Web Developer , Cybermalveillance.gouv.fr )</a>
                     <a href="developperSonProjet.php" class="btn btn-link d-block">Développer son projet professionnel
-                        Recherche d'une alternance - CV, Linkedin, Lettre recommandation</a>
-                    <a href="" class="btn btn-link d-block">Développer son projet professionnel
                         Recherche d'une alternance - CV, Linkedin</a>
+
                 </div>
             </div>
         </div>

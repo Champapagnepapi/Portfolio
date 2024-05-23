@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vérifier les conditions de la continuité d’un service informatique - PPE Worktogether - Sentry</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <title>Gérer son identité professionnelle - Portfolio, Linkedin, CV numérique</title>
     <style>
         /* Styles personnalisés */
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            background-color: #f4f4f9;
             margin: 0;
             padding: 0;
         }
 
         .container {
-            padding: 30px;
-            margin-top: 20px;
+            padding: 40px;
+            margin-top: 30px;
             background-color: #fff;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -39,19 +39,6 @@
             text-align: center;
         }
 
-        .qr-code {
-            display: flex;
-            justify-content: center;
-            margin-bottom: 20px;
-        }
-
-        .qr-code img {
-            margin: 0 10px;
-            border: 2px solid #007bff;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
         .image-section {
             display: flex;
             justify-content: center;
@@ -60,17 +47,18 @@
         }
 
         .image-section img {
-            margin: 10px;
+            margin: 15px;
             max-width: 100%;
             height: auto;
-            border-radius: 5px;
+            border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
-        .btn-back {
-            display: block;
-            margin: 20px auto;
-            font-weight: bold;
+        .text-section {
+            margin-top: 30px;
+            font-size: 1.1em;
+            line-height: 1.6;
+            color: #555;
         }
 
         .text-center {
@@ -81,29 +69,20 @@
 
 <body>
     <a href="competences.php" class="btn btn-primary">Retour</a>
-    <h1>Gérer son identité professionnelle - Portfolio, Linkedin, CV numérique</h1>
+    <h1>Vérifier les conditions de la continuité d’un service informatique<br>PPE Worktogether - Sentry</h1>
     <div class="container">
 
 
-
-
-
-        <div class="text-center">
-            <h2>QR Code de mon CV numérique  <a href="https://cvnumeriqueyannntangda.azurewebsites.net/">Accéder au CV</a></h2>
-            
-            <img src="https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fcvnumeriqueyannntangda.azurewebsites.net%2F&amp;size=200x200" alt="QR Code pour le CV numérique">
-        </div>
-
-
-        <div class="text-center">
-            <h2>QR Code du Portfolio</h2>
-            <img src="https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fyann-ntangda.ovh%2F&amp;size=200x200" alt="QR Code pour le portfolio">
-
+        <div class="text-section">
+            <p> Dans le cadre du projet PPE Worktogether, j'ai mis en place Sentry, une plateforme de surveillance des applications qui permet de détecter et de résoudre rapidement les erreurs.</p>
+           
+            <p>Ci-dessous, vous trouverez quelques captures d'écran illustrant l'interface et les fonctionnalités de Sentry :</p>
         </div>
 
         <div class="image-section">
-            <img src="img/link1.png" alt="Linkedin 1">
-            <img src="img/link2.png" alt="Linkedin 2">
+            <img src="img/sentry1.png" alt="Capture d'écran de Sentry 1">
+            <img src="img/sentry2.png" alt="Capture d'écran de Sentry 2">
+            <img src="img/sentry3.png" alt="Capture d'écran de Sentry 3">
         </div>
     </div>
 
