@@ -88,7 +88,7 @@
         <div class="image-section">
             <img src="img/matomo1.png" alt="Capture d'écran de Matomo 1">
             <img src="img/matomo2.png" alt="Capture d'écran de Matomo 2">
-            <img src="img/matomo3.png" alt="Capture d'écran de Matomo 3">
+            <img src="img/mat.png" alt="Capture d'écran de Matomo 3">
         </div>
     </div>
 

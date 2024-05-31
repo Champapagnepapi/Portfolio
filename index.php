@@ -76,12 +76,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 
 <body>
-
+<!-- 
     <div class="header">
         <div class="message">
             <p><strong>Message important :</strong> Site en cours de production</p>
         </div>
-    </div>
+    </div> -->
 
     <div class="container">
         <?php

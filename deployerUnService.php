@@ -100,8 +100,17 @@
             </p>
 
             <div class="image-container">
+                <img src="img/dep1.png" alt="Étape 1: Configuration du serveur">
+            </div>
+
+            <div class="image-container">
+                <img src="img/dep2.png" alt="Étape 1: Configuration du serveur">
+            </div>
+
+            <div class="image-container">
                 <img src="img/deploy1.png" alt="Étape 1: Configuration du serveur">
             </div>
+            
 
             <p>
                 La première étape du déploiement consiste à configurer le serveur sur lequel le service sera hébergé. Cela implique généralement la configuration des paramètres du serveur, l'installation des logiciels nécessaires et la mise en place des bases de données si nécessaire.
